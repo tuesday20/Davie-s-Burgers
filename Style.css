@@ -24,7 +24,7 @@ nav img {
 }
 
 nav span {
-  display: block;
+  display: inline-block;
   font-size: 16px;
   font-weight: 100;
   letter-spacing: 2px;
